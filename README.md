@@ -18,7 +18,7 @@ TODO fill in
 
 On fedora 34
 
- 
+ ```
    sudo dnf install gcc      
    sudo dnf install cc                                               
    sudo dnf install swig                                             
@@ -27,7 +27,7 @@ On fedora 34
    sudo dnf install python3-devel                                    
    sudo dnf install protobuf-devel protobuf
    sudo dnf install cyrus-sasl-devel
-
+```
 
 
 
