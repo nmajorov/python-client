@@ -16,6 +16,21 @@ Focus is easyness to:
 
 TODO fill in
 
+On fedora 34
+
+ 
+   sudo dnf install gcc      
+   sudo dnf install cc                                               
+   sudo dnf install swig                                             
+   sudo dnf install install gcc-c++                                  
+   sudo dnf install  gcc-c++                                         
+   sudo dnf install python3-devel                                    
+   sudo dnf install protobuf-devel protobuf
+   sudo dnf install cyrus-sasl-devel
+
+
+
+
 ## Generate the client
 
 It should be as easy as type:
